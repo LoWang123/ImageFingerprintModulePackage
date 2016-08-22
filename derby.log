@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 21 22:42:42 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0156-aed7-53a2-000006011e38 
+on database directory C:\Users\Tobi\Documents\NetBeansProjects\ImageFingerprintComparison\FingerprintDB with class loader ModuleCL@59dfc9b8[de.fau.imagefingerprintcomparison.modules] 
+Loaded from jar:file:/C:/Users/Tobi/Documents/NetBeansProjects/ImageFingerprintComparison/build/cluster/modules/ext/derby.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\Tobi\Documents\NetBeansProjects\ImageFingerprintComparison
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
