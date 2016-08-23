@@ -64,8 +64,8 @@ Block Mean Value: Block mean value based image perceptualhashing by Yang, B., Gu
 Color Histogram: Inspired by the absence of color information in the aforementioned methods.
 
 
-3. Source Code & Licence
+3. Licence
 ------------------------
 
-TODO
+The ImageFingerprint Module Package is distributed under the MIT Licence. Please see licence.txt for further information.
 
